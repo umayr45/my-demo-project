@@ -1,0 +1,12 @@
+# Test cases
+- Valid branch setup and approval
+- Missing work-item ID
+- Dirty working tree
+- Missing origin or base branch
+- Existing local or remote feature branch
+- Approval declined
+- WIP checkpoint with actual changes
+- WIP checkpoint with no changes
+- Suspicious secret-bearing file
+- WIP approval declined
+- Push success without observable CI result
